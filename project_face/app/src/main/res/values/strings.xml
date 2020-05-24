@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">project_face</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="reg_textview">Sign Up</string>
+
+    <string name="choose_your_role">Choose your Role</string>
+    <string name="manager">Manager</string>
+    <string name="cashier">Cashier</string>
+    <string name="register">REGISTER</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="cust_text">CUSTOMER INFORMATION</string>
+</resources>
